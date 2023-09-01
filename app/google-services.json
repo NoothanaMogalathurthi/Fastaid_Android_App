@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299833192947",
+    "project_id": "login-register-firebase-14923",
+    "storage_bucket": "login-register-firebase-14923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299833192947:android:d5e14db3d406a71479e286",
+        "android_client_info": {
+          "package_name": "in.edu.svecw.fastaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299833192947-qa8oin44ip7u2dacs17d3lduk2a0k6qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Ee9bMGnPA83J3p7Eq35du1YO2kvC7jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299833192947-qa8oin44ip7u2dacs17d3lduk2a0k6qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
